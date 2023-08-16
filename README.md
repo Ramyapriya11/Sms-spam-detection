@@ -1,3 +1,3 @@
 # Sms-spam-detection
-Developed a model to detect spam sms
+Developed a model to detect spam sms.
 A SMS spam detection model is a machine learning system designed to classify text messages as spam or legitimate (ham). By analyzing patterns and features in a labeled dataset of messages, the model learns to distinguish between unsolicited and desired content. It extracts numerical features from text using techniques like Bag of Words or TF-IDF, and trains on algorithms like Naive Bayes, Support Vector Machines, or Neural Networks. After training, the model is evaluated using metrics like accuracy and precision. Once optimized, the model can be deployed to automatically identify and filter out spam messages from users' inboxes, enhancing communication efficiency and user experience. Regular monitoring and updates ensure its effectiveness over time.
